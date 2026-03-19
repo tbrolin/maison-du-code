@@ -1,7 +1,5 @@
 # The Kitchen That Never Stopped Cooking 🍳
 
----
-
 Once upon a time, there was a renowned restaurant called **Maison du Code**. It was famous for delivering exquisite dishes — features, the customers called them — at an extraordinary pace. The dining room was always full, and the orders never stopped coming.
 
 The head chef, **Marie**, led a brilliant brigade of cooks. Every morning, management would slide a fresh stack of orders through the window: *"Table 4 wants the new tasting menu! Table 12 needs a gluten-free rework! VIP room wants something nobody's ever seen before!"* And the chefs delivered. Dish after dish. Sprint after sprint.
